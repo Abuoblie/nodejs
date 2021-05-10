@@ -1,0 +1,24 @@
+{
+  "name": "@my-abuoblie/nodejs",
+  "version": "1.0.0",
+  "description": "trying node packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abuoblie/nodejs.git"
+  },
+  "keywords": [
+    "npm",
+    "npm-try-packages"
+  ],
+  "author": "Abu Oblie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abuoblie/nodejs/issues"
+  },
+  "homepage": "https://github.com/Abuoblie/nodejs#readme"
+}
